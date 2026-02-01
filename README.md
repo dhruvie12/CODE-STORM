@@ -6,11 +6,23 @@
 This website's goal is to create a responsive web platform that lets photographers showcase their portfolios in a professional manner and makes it simple for customers to peruse, assess, and reserve photography services. The system aims to simplify client-photographer interactions by fusing user-friendly design with effective booking functionality.
 
 # 2. Target Users
-Identify at least three user groups your site will serve.
-For each group, describe:
-Demographics and interests.
-What they need from your site.
-How your site supports them.
+1. Photographers
+
+Demographics & Interests: Professional or freelance photographers who want to showcase their work online. They may specialize in weddings, portraits, fashion, events, or commercial photography.
+Needs: A platform to upload and manage their portfolios, show services and prices, and receive booking requests easily.
+Site Support: Photographers can create profiles with their details, upload portfolio images, set availability and pricing, and view client bookings in one place.
+
+2. Clients/Customers:
+
+Demographics & Interests: Individuals, couples, or businesses looking to hire photographers for events, portraits, or commercial projects.
+Needs: A simple way to find photographers, view their work, compare services and prices, and book appointments online.
+Site Support: Clients can browse photographers’ profiles, filter by category, location, or price, view portfolios, and book appointments directly through the website.
+
+3. Website Administrator:
+
+Demographics & Interests: The person responsible for managing the platform, keeping it running smoothly, and maintaining data.
+Needs: Tools to monitor listings, manage bookings and users, and ensure everything works correctly.
+Site Support: The admin can manage photographer profiles and client bookings, monitor activity, and maintain the website efficiently.
 
 # 3. Main Functionalities
 1. Portfolio management for photographers
