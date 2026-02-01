@@ -13,9 +13,52 @@ What they need from your site.
 How your site supports them.
 
 # 3. Main Functionalities
-Describe at least eight (8) features of your website. Briefly describe the functionality to be an EPIC (will cover the issues types next week)
-Explain how these features align with your mission and user needs.
-Highlight any unique selling points (USPs).
+1. Portfolio management for photographers
+Features: Photographers have the ability to post, categorize, and manage their photo portfolios (e.g., weddings, portraits, events).
+Alignment with Mission & User Needs: Enables clients to assess photographers' style while assisting them in presenting their work in a professional manner.
+USP: Excellent portfolio presentation based on categories.
+
+2. Portfolio Filtering Based on Categories
+Functionality: Portfolios and images can be filtered by categories like:
+Weddings
+Portraits
+Occurrences
+Commercial
+Alignment with Mission and User Needs: Enables customers to locate photographers who meet their particular requirements in a timely manner.
+USP: Smooth browsing with instant filtering that doesn't require a site reload.
+
+3. Management of Services and Prices
+Functionality: Photographers are able to design and oversee service packages that include descriptions and prices.
+Alignment with Mission & User Needs: Offers openness and facilitates service comparison for customers.
+USP: Clear and uncomplicated service delivery.
+
+4. System for Booking Requests
+Functionality: Customers can make a reservation by choosing:
+Service for photography
+Date of preference
+Location
+Alignment with Mission and User Needs: Lowers communication overhead and simplifies the hiring process.
+USP: One-step booking request process.
+
+5. Calendar of Availability
+Functionality: Shows photographers the dates that are available and unavailable.
+Alignment with Mission & User Needs: Enhances scheduling effectiveness and avoids duplicate bookings.
+USP: An intuitive calendar interface.
+
+6. Role management and user authentication
+Functionality: Role-based access and safe login for administrators, clients, and photographers.
+Alignment with Mission and User Needs: Guarantees appropriate access control and data protection.
+USP: Role differentiation is minimal but effective.
+
+7. Dashboard for Administrators
+Functionality: Users, portfolios, categories, and booking requests can all be managed by administrators.
+Alignment with Mission and User Needs: Guarantees content quality and platform stability.
+USP: An interface for centralized management.
+
+8. User-friendly and responsive design
+Functionality: The platform is optimized for both desktop and mobile devices and is completely responsive.
+Alignment with Mission and User Needs: Offers a consistent and accessible experience across devices.
+USP: Design that prioritizes visuals and is tailored for photographic material.
 
 # 4. Preliminary Development Plan
 Outline a five-phase plan:
