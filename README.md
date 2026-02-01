@@ -2,10 +2,10 @@
 ## Team Members: Dhruvi Avaiya, Tisha Patel, Riya Thakkar, Ayushi Patel
 ## Team Name: Code Storm
 
-# 1. Website Conceptualization
+### 1. Website Conceptualization
 This website's goal is to create a responsive web platform that lets photographers showcase their portfolios in a professional manner and makes it simple for customers to peruse, assess, and reserve photography services. The system aims to simplify client-photographer interactions by fusing user-friendly design with effective booking functionality.
 
-# 2. Target Users
+### 2. Target Users
 1. Photographers
 
 Demographics & Interests: Professional or freelance photographers who want to showcase their work online. They may specialize in weddings, portraits, fashion, events, or commercial photography.
@@ -24,7 +24,7 @@ Demographics & Interests: The person responsible for managing the platform, keep
 Needs: Tools to monitor listings, manage bookings and users, and ensure everything works correctly.
 Site Support: The admin can manage photographer profiles and client bookings, monitor activity, and maintain the website efficiently.
 
-# 3. Main Functionalities
+### 3. Main Functionalities
 1. Portfolio management for photographers
 Features: Photographers have the ability to post, categorize, and manage their photo portfolios (e.g., weddings, portraits, events).
 Alignment with Mission & User Needs: Enables clients to assess photographers' style while assisting them in presenting their work in a professional manner.
@@ -72,7 +72,7 @@ Functionality: The platform is optimized for both desktop and mobile devices and
 Alignment with Mission and User Needs: Offers a consistent and accessible experience across devices.
 USP: Design that prioritizes visuals and is tailored for photographic material.
 
-# 4. Preliminary Development Plan
+### 4. Preliminary Development Plan
 Outline a five-phase plan:
 Research & Analysis – How you’ll refine user needs and study competitors.
 Design – UI/UX considerations (layout, navigation, accessibility, etc.).
