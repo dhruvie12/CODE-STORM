@@ -1,4 +1,4 @@
-## Augmented Reality based Virtual Try-on System
+## Photographer Portfolio & Booking Platform
 ## Team Members: Dhruvi Avaiya, Tisha Patel, Riya Thakkar, Ayushi Patel
 ## Team Name: Code Storm
 
