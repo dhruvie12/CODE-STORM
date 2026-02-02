@@ -85,4 +85,4 @@ Development—The website will be developed using React for the front end to cre
 Testing—The goal of the testing phase is to make sure the website works properly and offers a seamless user experience. To evaluate usability, customers will be able to browse portfolios, filter categories, and make booking requests with ease. Performance testing will guarantee that pages load quickly, particularly portfolio pages with a lot of images. Verifying secure login capabilities, safeguarding user data, and validating form inputs to stop mistakes or abuse are all examples of basic security testing. Before launch, any problems found during testing will be fixed.
 
 Launch & Maintenance – To make the website publicly available, a cloud-based hosting platform will be used for its deployment. The system will be observed following launch to guarantee reliable performance and proper operation. Bug fixes, content updates, and feature enhancements based on user input will all be part of routine maintenance. In order to improve usability and maintain the platform's security and dependability over time, periodic updates will also be made.
-
+Added preliminary development plan to README
