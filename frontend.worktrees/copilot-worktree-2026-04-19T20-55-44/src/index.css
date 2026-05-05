@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #faf9f7;
+  font-family: Georgia, 'Times New Roman', serif;
+}
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
